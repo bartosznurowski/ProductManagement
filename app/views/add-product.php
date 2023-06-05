@@ -74,7 +74,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     </form>
 
-    <footer>Scandiweb Test assignment</footer>
+    <footer>Inventory Management Project</footer>
 
 </body>
 
