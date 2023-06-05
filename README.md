@@ -1,3 +1,8 @@
+---
+title: Poker
+description: Browser Poker Game using PHP
+---
+
 # Product Management App
 Product Management is an simple app to manage the products in the database.
 
