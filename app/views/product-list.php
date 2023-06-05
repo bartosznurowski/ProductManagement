@@ -33,7 +33,7 @@
 
     </form>      
     
-    <footer>Scandiweb Test assignment</footer>
+    <footer>Inventory Management Project</footer>
 
 </body>
 
