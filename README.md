@@ -4,8 +4,7 @@ Product Management is an simple app to manage the products in the database.
 
 The project was focused on learning PHP Model View Controller pattern without using any framework. 
 
-
-Product list page allows you to see availables products from the database.
+Product list page allows you to see availables products from the database or delete them by selecting specific ones.
 ![ProductList](https://github.com/bartosznurowski/product.management/assets/105807818/9b732513-038f-4e7c-ae42-2907bdcae040)
 
 
