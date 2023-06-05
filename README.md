@@ -8,7 +8,7 @@ Product list page allows you to see availables products from the database or del
 ![ProductList](https://github.com/bartosznurowski/product.management/assets/105807818/9b732513-038f-4e7c-ae42-2907bdcae040)
 
 
-The add product page let the user add product with certain category which is available from the database and then the form is dynamically changed depend on the category selected using jQuery.
+The add product page let the user add product with certain category which is available from the database and then the form is dynamically changed depend on the category selected using AJAX jQuery.
 ![AddProduct](https://github.com/bartosznurowski/product.management/assets/105807818/95f951f7-b194-4c6e-8967-a6509132bdc3)
 
 The form is checked for validate inputs and unique SKU using AJAX jQuery.
